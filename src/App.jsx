@@ -1,6 +1,6 @@
 import './App.css'
-import Header from './Header'
-import Hero from './Hero'
+import Header from './header'
+import Hero from './hero'
 
 function App() {
 
@@ -8,6 +8,7 @@ function App() {
     <>
       <Header />
       <Hero />
+
     </>
   )
 }
