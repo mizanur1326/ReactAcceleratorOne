@@ -1,5 +1,5 @@
-import FigmaIcon from "./assets/FigmaIcon";
-import GithubIcom from "./assets/GithubIcon";
+import FigmaIcon from "./assets/svgComponents/FigmaIcon";
+import GithubIcom from "./assets/svgComponents/GithubIcon";
 import heroImage from "./assets/hero.png";
 
 export default function Hero(){

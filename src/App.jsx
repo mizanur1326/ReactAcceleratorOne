@@ -1,6 +1,9 @@
 import './App.css'
-import Header from './header'
+import CompaniesLogo from './companiesLogo'
+import Header from './Header'
 import Hero from './hero'
+import ServiceOne from './ServiceComponents/ServiceOne'
+import ServiceTwo from './ServiceComponents/ServiceTwo'
 
 function App() {
 
@@ -8,7 +11,9 @@ function App() {
     <>
       <Header />
       <Hero />
-
+      <CompaniesLogo />
+      <ServiceOne />
+      <ServiceTwo />
     </>
   )
 }
